@@ -1,0 +1,21 @@
+{
+  "name": "LRI",
+  "version": "1.0.0",
+  "description": "This application will display various social media",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "Spotify",
+    "Google"
+  ],
+  "author": "Michael Hoppenrath",
+  "license": "ISC",
+  "dependencies": {
+    "request": "*",
+    "node-spotify-api": "*",
+    "twitter":"*"
+  }
+}
